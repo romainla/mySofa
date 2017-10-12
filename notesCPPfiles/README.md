@@ -1,1 +1,1 @@
-Dans un cpp un <Deriv>, <Coord> etc est un vecteur contenant autant de composants qu'il y a de DOF(e.g en 3D il y a 3 composantes: x, y, z) tandis qu'un <VecCoord> est un vecteur de points (e.g si objet en 3D un vecteur de vecteur de points 3D i.e tous les points de l'objet)
+Dans un cpp un *Deriv>*, *Coord* etc est un vecteur contenant autant de composants qu'il y a de DOF (e.g en 3D il y a 3 composantes: x, y, z) tandis qu'un *VecCoord* est un vecteur de points (e.g si objet en 3D un vecteur de vecteur de points 3D i.e tous les points de l'objet)
