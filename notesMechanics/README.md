@@ -1,4 +1,4 @@
-#Equation linéaire du mouvement d'un solide déformable
+# Equation linéaire du mouvement d'un solide déformable
 
 Mu'' + Du' + Ku = \sum forces_ext
 
